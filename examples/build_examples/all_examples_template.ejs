@@ -1,0 +1,45 @@
+---
+title: examples
+slug: examples/
+---
+
+<div id="examples-page">
+
+  {{> sidebar}}
+
+  <div class="column-span">
+
+    <main id="content" >
+      <h1>{{#i18n "Examples"}}{{/i18n}}</h1>
+
+      <div class="column_0 column">
+      <% var t = 0; var col=1; for(var topic in all) { %>
+        <h3 name='<%=topic.toLowerCase()%>' class='anchor'>{{#i18n "<%=topic%>"}}{{/i18n}}</h3>
+        <p>
+        <% for(var i=0; i<all[topic].length; i++) { %>
+          <a class='js-lang example-link' href="<%=all[topic][i]['link']%>"
+            <%
+              var keys = Object.keys(all[topic][i]).filter(function(k) { return k !== 'link' });
+              for(var j=0; j < keys.length; j++) { %>
+                data-<%=keys[j]%>='<%=all[topic][i][keys[j]]%>'
+            <%}%>
+          ><%= all[topic][i]['en'] %></a><br>
+          <% t++ %>
+        <% } %>
+        </p>
+        <% if (t >= total/3) { %>
+          </div>
+          <div class="column_<%=col%> column">
+        <% col++; t=0; } %>
+      <% } %>
+      </div>
+
+
+    </main>
+    {{> footer}}
+
+  </div> <!-- end column-span -->
+
+  {{> asterisk}}
+
+</div><!-- end id="get-started-page"  -->
