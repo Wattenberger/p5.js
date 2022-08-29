@@ -1,5 +1,5 @@
 {
-  "examples/en/01_Form/08_Trig_Wheels_and_Pie_Chart.js": {
+  "examples/*": {
     "default": "Wattenberger__blocks__p5-sandbox"
   }
 }
