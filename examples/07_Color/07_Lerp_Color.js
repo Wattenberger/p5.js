@@ -12,10 +12,10 @@ function setup() {
 
 function draw() {
   background(255);
-  from = color(255, 0, 0, 0.2 * 255);
-  to = color(0, 0, 255, 0.2 * 255);
-  c1 = lerpColor(from, to, 0.33);
-  c2 = lerpColor(from, to, 0.66);
+  var from = color(255, 0, 0, 0.2 * 255);
+  var to = color(0, 0, 255, 0.2 * 255);
+  var c1 = lerpColor(from, to, 0.33);
+  var c2 = lerpColor(from, to, 0.66);
   for (let i = 0; i < 15; i++) {
     fill(from);
     quad(
