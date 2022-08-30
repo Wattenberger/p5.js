@@ -6,7 +6,7 @@ In the digital world, when we want to talk about a color, precision is required.
 
 By adding the stroke() and fill() functions before something is drawn, we can set the color of any given shape. There is also the function background(), which sets a background color for the window. Here's an example.
 
-```
+```javascript
 background(255);    // Setting the background to white
 stroke(0);          // Setting the outline (stroke) to black
 fill(150);          // Setting the interior of a shape (fill) to grey
@@ -38,14 +38,15 @@ Remember finger painting? By mixing three "primary" colors, any color could be g
 
 ![](https://p5js.org/assets/learn/color/rgb.jpg)
 
-Red + Green = Yellow
-Red + Blue = Purple
-Green + Blue = Cyan (blue-green)
-Red + Green + Blue = White
-No colors = Black
+**Red + Green** = Yellow
+**Red + Blue** = Purple
+**Green + Blue** = Cyan (blue-green)
+**Red + Green + Blue** = White
+**No colors** = Black
+
 This assumes that the colors are all as bright as possible, but of course, you have a range of color available, so some red plus some green plus some blue equals gray, and a bit of red plus a bit of blue equals dark purple. While this may take some getting used to, the more you program and experiment with RGB color, the more it will become instinctive, much like swirling colors with your fingers. And of course you can't say "Mix some red with a bit of blue," you have to provide an exact amount. As with grayscale, the individual color elements are expressed as ranges from 0 (none of that color) to 255 (as much as possible), and they are listed in the order R, G, and B. You will get the hang of RGB color mixing through experimentation, but next we will cover some code using some common colors.
 
-```
+```javascript
 function draw() {
   background(255);
   noStroke();
@@ -72,7 +73,7 @@ It is important to realize that pixels are not literally transparent, this is si
 
 Alpha values also range from 0 to 255, with 0 being completely transparent (i.e., 0% opaque) and 255 completely opaque (i.e., 100% opaque).
 
-```
+```javascript
 createCanvas(100, 100);
 fill(0,0,255);
 rect(0,0,50,100);
