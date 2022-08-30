@@ -4,5 +4,8 @@
   },
   "examples/en/01_Form/04_Star.js": {
     "default": "githubnext__blocks-examples__code-block"
+  },
+  "docs/01 Getting started": {
+    "default": "Wattenberger__blocks__p5-tutorial"
   }
 }
