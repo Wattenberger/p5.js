@@ -11,17 +11,16 @@ p5.js draws inspiration, wisdom, and guidance from its precursor [Processing](ht
 
 The [p5js.org](https://p5js.org) website contains an extensive overview of the project, community, documentation, and examples. If you already know the basics of JavaScript or Processing, the [p5.js overview](https://github.com/processing/p5.js/wiki/p5.js-overview) wiki page is a good place to start.
 
-## Get Started
+## Getting Started
 
-TODO: mimic [getting started](p5js.org/get-started/)
-
-TODO: port some of [p5js.org/learn/](p5js.org/learn/)
+Here's an example of a sketch:
 
 <BlockComponent
   block={{"owner":"Wattenberger","repo":"blocks","id":"p5-sandbox","type":"file"}}
 context={{"repo":"p5.js","owner":"wattenberger","path":"examples/07_Color/05_Linear_Gradient.js","sha":"main","file":"README.md"}}
 height={432}
 />
+To get started, [read the guide](/docs/01%20Getting%20started).
 
 ## Learning
 
