@@ -16,7 +16,12 @@ The [p5js.org](https://p5js.org) website contains an extensive overview of the p
 TODO: mimic [getting started](p5js.org/get-started/)
 
 TODO: port some of [p5js.org/learn/](p5js.org/learn/)
-TODO: link examples, make globs work for default Blocks
+
+<BlockComponent
+  block={{"owner":"Wattenberger","repo":"blocks","id":"p5-sandbox","type":"file"}}
+context={{"repo":"p5.js","owner":"wattenberger","path":"examples/07_Color/05_Linear_Gradient.js","sha":"main","file":"README.md"}}
+height={432}
+/>
 
 ## Learning
 
