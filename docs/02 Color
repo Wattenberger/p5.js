@@ -65,6 +65,8 @@ function draw() {
 }
 ```
 
+---
+
 ## Color Transparency
 
 In addition to the red, green, and blue components of each color, there is an additional optional fourth component, referred to as the color's "alpha". Alpha means transparency and is particularly useful when you want to draw elements that appear partially see-through on top of one another. The alpha values for an image are sometimes referred to collectively as the "alpha channel" of an image.
