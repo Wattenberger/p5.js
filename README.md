@@ -16,9 +16,8 @@ The [p5js.org](https://p5js.org) website contains an extensive overview of the p
 Here's an example of a sketch:
 
 <BlockComponent
-  block={{"owner":"Wattenberger","repo":"blocks","id":"p5-sandbox","type":"file"}}
-context={{"repo":"p5.js","owner":"wattenberger","path":"examples/07_Color/05_Linear_Gradient.js","sha":"main","file":"README.md"}}
-height={432}
+  block={{"owner":"Wattenberger","repo":"blocks","id":"contributors","type":"file"}}
+context={{"repo":"p5.js","owner":"wattenberger","path":".all-contributorsrc","sha":"HEAD","file":"README.md"}}
 />
 To get started, [read the guide](/docs/01%20Getting%20started).
 
@@ -96,12 +95,10 @@ TODO: fix table
 
 We recognize all types of contributions. This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Instructions to add yourself or add contribution emojis to your name are [here](https://github.com/processing/p5.js/issues/2309). You can also post an issue or comment with the text: `@all-contributors please add @YOUR-USERNAME for THING(S)` and our nice bot will add you.
 
-TODO: make contributors Block
-
-T
 <BlockComponent
-  block={{"owner":"githubnext","repo":"blocks-examples","id":"code-block","type":"file"}}
+  block={{"owner":"Wattenberger","repo":"blocks","id":"contributors","type":"file"}}
 context={{"repo":"p5.js","owner":"wattenberger","path":".all-contributorsrc","sha":"HEAD","file":"README.md"}}
+height={551}
 />
 
 
