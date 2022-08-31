@@ -74,28 +74,6 @@ Anyone interested can volunteer to be a steward! There are no specific requireme
 * [@dhowe](https://github.com/dhowe)
 * [@rahulm2310](https://github.com/rahulm2310)
 
-TODO: fix table
-
-| Area                                                                                 | Steward(s)                                                                                                               |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| Overall                                                                              | [@qianqianye](https://github.com/qianqianye)                                                                                                             |
-| [Accessibility](https://github.com/processing/p5.js/tree/main/src/accessibility)     | [@kungfuchicken](https://github.com/kungfuchicken), [@cosmicbhejafry](https://github.com/cosmicbhejafry)                                     |
-| [Color](https://github.com/processing/p5.js/tree/main/src/color)                     | [@KleoP](https://github.com/KleoP), [@murilopolese](https://github.com/murilopolese), [@aahdee](https://github.com/aahdee)            |
-| [Core](https://github.com/processing/p5.js/tree/main/src/core)/Environment/Rendering | [@limzykenneth](https://github.com/limzykenneth), [@davepagurek](https://github.com/davepagurek), [@jeffawang](https://github.com/jeffawang)                            |
-| [Data](https://github.com/processing/p5.js/tree/main/src/data)                       | [@kungfuchicken](https://github.com/kungfuchicken), [@cosmicbhejafry](https://github.com/cosmicbhejafry)                                             |
-| [DOM](https://github.com/processing/p5.js/tree/main/src/dom)                         | [@outofambit](https://github.com/outofambit), [@SarveshLimaye](https://github.com/SarveshLimaye), [@SamirDhoke](https://github.com/SamirDhoke)                   |
-| [Events](https://github.com/processing/p5.js/tree/main/src/events)                   | [@limzykenneth](https://github.com/limzykenneth)                                                                                                            |
-| [Image](https://github.com/processing/p5.js/tree/main/src/image)                     | [@stalgiag](https://github.com/stalgiag), [@cgusb](https://github.com/cgusb), [@photon-niko](https://github.com/photon-niko), [@KleoP](https://github.com/KleoP)
-| [IO](https://github.com/processing/p5.js/tree/main/src/io)                           | [@limzykenneth](https://github.com/limzykenneth)                                                                                                            |
-| [Math](https://github.com/processing/p5.js/tree/main/src/math)                       | [@limzykenneth](https://github.com/limzykenneth), [@jeffawang](https://github.com/jeffawang), [@AdilRabbani](https://github.com/AdilRabbani)       |
-| [Typography](https://github.com/processing/p5.js/tree/main/src/typography)           | [@dhowe](https://github.com/dhowe), [@SarveshLimaye](https://github.com/SarveshLimaye)                                                                                                                  |
-| [Utilities](https://github.com/processing/p5.js/tree/main/src/utilities)             | [@kungfuchicken](https://github.com/kungfuchicken), [@cosmicbhejafry](https://github.com/cosmicbhejafry)                                  |
-| [WebGL](https://github.com/processing/p5.js/tree/main/src/webgl)                     | [@stalgiag](https://github.com/stalgiag); GSoC 2022: [@aceslowman](https://github.com/aceslowman)(Contributor), [@kjhollen](https://github.com/kjhollen)(Mentor); [@ShenpaiSharma](https://github.com/ShenpaiSharma)(Contributor), [@calebfoss](https://github.com/calebfoss)(Mentor); [@davepagurek](https://github.com/davepagurek); [@jeffawang](https://github.com/jeffawang); [@AdilRabbani](https://github.com/AdilRabbani)  |
-| Build Process/Unit Testing                                                           | [@outofambit](https://github.com/outofambit), [@kungfuchicken](https://github.com/kungfuchicken)                                                                                                               |
-| Internalization                                                                  | [@outofambit](https://github.com/outofambit), [@almchung](https://github.com/almchung)                           |
-| Friendly Errors                                                                      | [@outofambit](https://github.com/outofambit), [@almchung](https://github.com/almchung)                                                                                                              |
-| [Contributor Docs](https://github.com/processing/p5.js/tree/main/contributor_docs)   | [SoD 2022](https://github.com/processing/p5.js/wiki/Season-of-Docs-2022-Organization-Application---p5.js): [@limzykenneth](https://github.com/limzykenneth) |
-
 ## Contributors
 
 We recognize all types of contributions. This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Instructions to add yourself or add contribution emojis to your name are [here](https://github.com/processing/p5.js/issues/2309). You can also post an issue or comment with the text: `@all-contributors please add @YOUR-USERNAME for THING(S)` and our nice bot will add you.
