@@ -24,7 +24,7 @@ context={{"repo":"p5.js","owner":"wattenberger","path":"examples/07_Color/05_Lin
 height={432}
 />
 
-To get started, [read the guide](/docs/01%20Getting%20started).
+To get started, [read the guide](https://blocks.githubnext.com/wattenberger/p5.js?path=docs%2F01+Getting+started&branch=main&blockKey=Wattenberger__blocks__p5-tutorial&fileRef=).
 
 ## Learning
 
@@ -83,6 +83,4 @@ We recognize all types of contributions. This project follows the [all-contribut
 context={{"repo":"p5.js","owner":"wattenberger","path":".all-contributorsrc","sha":"HEAD","file":"README.md"}}
 height={551}
 />
-
-
-Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key))!
+Thanks goes to these wonderful people!
