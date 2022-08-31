@@ -1,10 +1,13 @@
-[![npm version](https://badge.fury.io/js/p5.svg)](https://www.npmjs.com/package/p5)
 # [p5.js](https://p5js.org)
 
 Welcome! 👋👋🏿👋🏽👋🏻👋🏾👋🏼
 
 p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone.
 
+<BlockComponent
+  block={{"owner":"mattrothenberg","repo":"package-json-badge-block","id":"package-json-badge-block","type":"file"}}
+context={{"repo":"p5.js","owner":"wattenberger","path":"package.json","sha":"HEAD","file":"README.md"}}
+/>
 Using the metaphor of a sketch, p5.js has a full set of drawing functionality using the HTML5 canvas element. You’re not limited to the drawing canvas though. You can think of your whole browser page as your sketch, including HTML5 objects for text, input, video, webcam, and sound.
 
 p5.js draws inspiration, wisdom, and guidance from its precursor [Processing](https://processing.org). However, it is a new interpretation, not an emulation or port. We don't aim to match Processing's set of functionality exactly, allowing ourselves space to deviate and grow in the context of the web.
