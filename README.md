@@ -7,6 +7,7 @@ p5.js is a JavaScript library for creative coding, with a focus on making coding
 <BlockComponent
   block={{"owner":"mattrothenberg","repo":"package-json-badge-block","id":"package-json-badge-block","type":"file"}}
 context={{"repo":"p5.js","owner":"wattenberger","path":"package.json","sha":"HEAD","file":"README.md"}}
+height={219}
 />
 Using the metaphor of a sketch, p5.js has a full set of drawing functionality using the HTML5 canvas element. You’re not limited to the drawing canvas though. You can think of your whole browser page as your sketch, including HTML5 objects for text, input, video, webcam, and sound.
 
